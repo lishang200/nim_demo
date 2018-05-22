@@ -1,0 +1,118 @@
+[
+    {
+        "merged": "E:\\waijiexiangmu\\example\\nim_demo\\demo\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\switch_thumb_material_dark.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\4609c501c69cf8c9278e0f6224ee4d64\\res\\color\\switch_thumb_material_dark.xml"
+    },
+    {
+        "merged": "E:\\waijiexiangmu\\example\\nim_demo\\demo\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\design_error.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\design-26.1.0.aar\\5b9c1957bd1af6e3dc9f2e2d8aea48e2\\res\\color\\design_error.xml"
+    },
+    {
+        "merged": "E:\\waijiexiangmu\\example\\nim_demo\\demo\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\color_picker_preview_selector.xml",
+        "source": "E:\\waijiexiangmu\\example\\nim_demo\\uikit\\build\\intermediates\\bundles\\debug\\res\\color\\color_picker_preview_selector.xml"
+    },
+    {
+        "merged": "E:\\waijiexiangmu\\example\\nim_demo\\demo\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\abc_btn_colored_borderless_text_material.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\4609c501c69cf8c9278e0f6224ee4d64\\res\\color\\abc_btn_colored_borderless_text_material.xml"
+    },
+    {
+        "merged": "E:\\waijiexiangmu\\example\\nim_demo\\demo\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\abc_primary_text_material_dark.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\4609c501c69cf8c9278e0f6224ee4d64\\res\\color\\abc_primary_text_material_dark.xml"
+    },
+    {
+        "merged": "E:\\waijiexiangmu\\example\\nim_demo\\demo\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\abc_tint_spinner.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\4609c501c69cf8c9278e0f6224ee4d64\\res\\color\\abc_tint_spinner.xml"
+    },
+    {
+        "merged": "E:\\waijiexiangmu\\example\\nim_demo\\demo\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\abc_hint_foreground_material_dark.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\4609c501c69cf8c9278e0f6224ee4d64\\res\\color\\abc_hint_foreground_material_dark.xml"
+    },
+    {
+        "merged": "E:\\waijiexiangmu\\example\\nim_demo\\demo\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\abc_tint_switch_track.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\4609c501c69cf8c9278e0f6224ee4d64\\res\\color\\abc_tint_switch_track.xml"
+    },
+    {
+        "merged": "E:\\waijiexiangmu\\example\\nim_demo\\demo\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\dsb_ripple_color_list.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\discrete-seekbar-1.0.1.aar\\c0e93791358d9f00acc48a38165d084c\\res\\color\\dsb_ripple_color_list.xml"
+    },
+    {
+        "merged": "E:\\waijiexiangmu\\example\\nim_demo\\demo\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\switch_thumb_material_light.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\4609c501c69cf8c9278e0f6224ee4d64\\res\\color\\switch_thumb_material_light.xml"
+    },
+    {
+        "merged": "E:\\waijiexiangmu\\example\\nim_demo\\demo\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\abc_primary_text_disable_only_material_dark.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\4609c501c69cf8c9278e0f6224ee4d64\\res\\color\\abc_primary_text_disable_only_material_dark.xml"
+    },
+    {
+        "merged": "E:\\waijiexiangmu\\example\\nim_demo\\demo\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\design_tint_password_toggle.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\design-26.1.0.aar\\5b9c1957bd1af6e3dc9f2e2d8aea48e2\\res\\color\\design_tint_password_toggle.xml"
+    },
+    {
+        "merged": "E:\\waijiexiangmu\\example\\nim_demo\\demo\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\color_green_text_view_selector.xml",
+        "source": "E:\\waijiexiangmu\\example\\nim_demo\\rtskit\\build\\intermediates\\bundles\\debug\\res\\color\\color_green_text_view_selector.xml"
+    },
+    {
+        "merged": "E:\\waijiexiangmu\\example\\nim_demo\\demo\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\abc_tint_seek_thumb.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\4609c501c69cf8c9278e0f6224ee4d64\\res\\color\\abc_tint_seek_thumb.xml"
+    },
+    {
+        "merged": "E:\\waijiexiangmu\\example\\nim_demo\\demo\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\abc_search_url_text.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\4609c501c69cf8c9278e0f6224ee4d64\\res\\color\\abc_search_url_text.xml"
+    },
+    {
+        "merged": "E:\\waijiexiangmu\\example\\nim_demo\\demo\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\abc_secondary_text_material_dark.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\4609c501c69cf8c9278e0f6224ee4d64\\res\\color\\abc_secondary_text_material_dark.xml"
+    },
+    {
+        "merged": "E:\\waijiexiangmu\\example\\nim_demo\\demo\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\abc_primary_text_disable_only_material_light.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\4609c501c69cf8c9278e0f6224ee4d64\\res\\color\\abc_primary_text_disable_only_material_light.xml"
+    },
+    {
+        "merged": "E:\\waijiexiangmu\\example\\nim_demo\\demo\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\common_google_signin_btn_tint.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-11.6.0.aar\\ec41154e2a1bcf38104d2b6c1fbb1925\\res\\color\\common_google_signin_btn_tint.xml"
+    },
+    {
+        "merged": "E:\\waijiexiangmu\\example\\nim_demo\\demo\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\abc_secondary_text_material_light.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\4609c501c69cf8c9278e0f6224ee4d64\\res\\color\\abc_secondary_text_material_light.xml"
+    },
+    {
+        "merged": "E:\\waijiexiangmu\\example\\nim_demo\\demo\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\abc_hint_foreground_material_light.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\4609c501c69cf8c9278e0f6224ee4d64\\res\\color\\abc_hint_foreground_material_light.xml"
+    },
+    {
+        "merged": "E:\\waijiexiangmu\\example\\nim_demo\\demo\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\abc_tint_btn_checkable.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\4609c501c69cf8c9278e0f6224ee4d64\\res\\color\\abc_tint_btn_checkable.xml"
+    },
+    {
+        "merged": "E:\\waijiexiangmu\\example\\nim_demo\\demo\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\abc_tint_default.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\4609c501c69cf8c9278e0f6224ee4d64\\res\\color\\abc_tint_default.xml"
+    },
+    {
+        "merged": "E:\\waijiexiangmu\\example\\nim_demo\\demo\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\common_google_signin_btn_text_light.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-11.6.0.aar\\ec41154e2a1bcf38104d2b6c1fbb1925\\res\\color\\common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "E:\\waijiexiangmu\\example\\nim_demo\\demo\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\common_google_signin_btn_text_dark.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-11.6.0.aar\\ec41154e2a1bcf38104d2b6c1fbb1925\\res\\color\\common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "E:\\waijiexiangmu\\example\\nim_demo\\demo\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\abc_tint_edittext.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\4609c501c69cf8c9278e0f6224ee4d64\\res\\color\\abc_tint_edittext.xml"
+    },
+    {
+        "merged": "E:\\waijiexiangmu\\example\\nim_demo\\demo\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\abc_btn_colored_text_material.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\4609c501c69cf8c9278e0f6224ee4d64\\res\\color\\abc_btn_colored_text_material.xml"
+    },
+    {
+        "merged": "E:\\waijiexiangmu\\example\\nim_demo\\demo\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\abc_primary_text_material_light.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\4609c501c69cf8c9278e0f6224ee4d64\\res\\color\\abc_primary_text_material_light.xml"
+    },
+    {
+        "merged": "E:\\waijiexiangmu\\example\\nim_demo\\demo\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\dsb_track_color_list.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\discrete-seekbar-1.0.1.aar\\c0e93791358d9f00acc48a38165d084c\\res\\color\\dsb_track_color_list.xml"
+    },
+    {
+        "merged": "E:\\waijiexiangmu\\example\\nim_demo\\demo\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\dsb_progress_color_list.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\discrete-seekbar-1.0.1.aar\\c0e93791358d9f00acc48a38165d084c\\res\\color\\dsb_progress_color_list.xml"
+    }
+]

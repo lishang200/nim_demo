@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="E:\waijiexiangmu\example\nim_demo\rtskit\libs"><file name="nim-basesdk-5.1.1.jar" path="E:\waijiexiangmu\example\nim_demo\rtskit\libs\nim-basesdk-5.1.1.jar"/><file name="nim-rts-5.1.1.jar" path="E:\waijiexiangmu\example\nim_demo\rtskit\libs\nim-rts-5.1.1.jar"/></source></dataSet><dataSet config="debug"><source path="E:\waijiexiangmu\example\nim_demo\rtskit\src\debug\jniLibs"/></dataSet></merger>

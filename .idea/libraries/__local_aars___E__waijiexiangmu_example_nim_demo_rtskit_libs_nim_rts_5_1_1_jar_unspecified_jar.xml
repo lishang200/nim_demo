@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="__local_aars__:E.\waijiexiangmu\example\nim_demo\rtskit\libs\nim-rts-5.1.1.jar:unspecified@jar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/rtskit/libs/nim-rts-5.1.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
